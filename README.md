@@ -1,7 +1,7 @@
 
 # 🚀 SecureSatComAIPlatform
 
-Yapay zekâ destekli güvenli uydu haberleşme simülasyon platformu.  
+Yapay zekâ destekli  haberleşme simülasyon platformu.  
 AES şifreleme, BPSK modülasyon, AWGN kanal modeli ve BER analizi içerir.  
 Makine öğrenmesine dayalı hata düzeltme ve FastAPI REST servisiyle desteklenmiştir.
 
